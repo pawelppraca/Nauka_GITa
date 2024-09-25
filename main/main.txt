@@ -2,4 +2,6 @@ Pierwsza Linia programu - main
 
 # Środowskio Development - JIRA-1 
 Druga Linia
-3-cia Linia
+3-cia Linia 
+    Linia 3 - modyfikacja w kolejnym Commicie
+    
