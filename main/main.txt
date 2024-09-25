@@ -1,0 +1,2 @@
+Pierwsza Linia programu - main
+
