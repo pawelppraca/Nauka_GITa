@@ -1,2 +1,0 @@
-Ten plik ma być usunięte bo jest nie potrzebny.
-Zrobiony na potrzeby przeprocesowania requeste change i usuniecia pliku z repo
