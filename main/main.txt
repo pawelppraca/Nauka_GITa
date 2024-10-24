@@ -5,3 +5,5 @@ Druga Linia
 3-cia Linia 
     Linia 3 - modyfikacja w kolejnym Commicie
     
+
+Linia w Dev dodana z poziomu Github'a
